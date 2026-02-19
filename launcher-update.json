@@ -1,6 +1,6 @@
 {
-  "latestVersion": "3.0.6",
-  "minimumVersion": "3.0.6",
+  "latestVersion": "3.0.5",
+  "minimumVersion": "3.0.5",
   "mandatory": false,
   "downloadUrl": "https://github.com/your-org/your-launcher/releases/latest",
   "releaseNotes": "Initial launcher release.",

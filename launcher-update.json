@@ -1,12 +1,13 @@
 {
-  "latestVersion": "3.0.6",
-  "minimumVersion": "3.0.6",
+  "latestVersion": "3.0.7",
+  "minimumVersion": "3.0.7",
   "mandatory": false,
   "downloadUrl": "https://github.com/your-org/your-launcher/releases/latest",
   "releaseNotes": "New Server Status Page, New Featured, Some Fixes",
   "releaseDate": "2026-02-19T00:00:00.000Z",
   "checksum": ""
 }
+
 
 
 

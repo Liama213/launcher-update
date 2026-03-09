@@ -1,12 +1,13 @@
 {
   "latestVersion": "7.0.1",
   "minimumVersion": "7.0.1",
-  "mandatory": false,
+  "mandatory": true,
   "downloadUrl": "https://github.com/your-org/your-launcher/releases/latest",
-  "releaseNotes": "bubble Wrap builds",
+  "releaseNotes": "idk",
   "releaseDate": "2026-02-19T00:00:00.000Z",
   "checksum": ""
 }
+
 
 
 
